@@ -4,8 +4,3 @@ def speak_to_grandma(string)
     binding.pry
 
 end
-
-
-
-
-
